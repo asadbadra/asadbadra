@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Asad Badra 👋
 
-<!--
-**asadbadra/asadbadra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student | Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I'm a Computer Engineering student interested in **Artificial Intelligence, Machine Learning, and Agentic AI**. I enjoy learning how intelligent systems work and exploring ways to build practical, reliable AI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 Exploring AI/ML, LLMs, and Agentic AI
+- 💻 Interested in software engineering and practical problem-solving
+- 🌱 Continuously learning, experimenting, and improving my skills
+- 🤝 Open to learning from others and contributing to open-source projects
+
+### Areas of Interest
+
+- Artificial Intelligence & Machine Learning
+- Agentic AI & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Software Engineering
+
+---
+
+*Learning by building. Growing through curiosity.*
